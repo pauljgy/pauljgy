@@ -1,5 +1,5 @@
 
-# PJ/Paul/Paul Jonathan/Pablo/Augustin/JR/Piotr/Pierre/d33jp33j/P-Jragon
+# PJ/Paul/Paul Jonathan/JR
 
 ## Hello there 👋
 
