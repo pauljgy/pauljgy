@@ -4,7 +4,7 @@
 - I really like playing/solving games and learning from them
 - I'm making some small tools here for:
     1) fixing mistakes/pruning out bad habits in various games
-    2) other small math experiments
+    2) other loosely math related projects
 
 <!--
 **pauljgy/pauljgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
