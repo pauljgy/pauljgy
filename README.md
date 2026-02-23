@@ -1,7 +1,7 @@
 ## Hi!
 
 - My name's PJ
-- I like playing games and learning from them
+- I like playing/solving games and learning from them
 - Making some small tools here to help me fix my mistakes in various games
 
 <!--
