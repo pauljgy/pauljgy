@@ -1,4 +1,4 @@
-## Hi!
+## Hi! 🌱🌱🌱
 
 - My name's PJ
 - I really like playing/solving games and learning from them
