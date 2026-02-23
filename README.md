@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi!
+
+- My name's PJ
+- I like playing games and learning from them
+- Making some small tools here to help me fix my mistakes in various games
 
 <!--
 **pauljgy/pauljgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
