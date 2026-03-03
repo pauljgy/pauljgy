@@ -1,7 +1,7 @@
 ## Hi! 🌱🌱🌱
 
 - My name's PJ
-- I really like playing/solving games and learning from them
+- I really enjoy playing/reasoning about games and learning from them
 - I'm making some small tools here for:
     1) fixing mistakes/pruning out bad habits in various games
     2) other loosely math related projects
